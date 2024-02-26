@@ -57,3 +57,4 @@ print("Nasza duża liczba {:,}".format(liczba).replace(",", "."))  # Nasza duża
 print("Nasza duża liczba {:,}".format(liczba).replace(",", " "))  # Nasza duża liczba 134,567,890,321
 # Nasza duża liczba 134.567.890.321
 # Nasza duża liczba 134 567 890 321
+# 13:30
