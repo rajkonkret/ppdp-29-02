@@ -70,7 +70,6 @@ elif alert_system == "email":
 else:
     print("Nie znam takiego systemu")
 
-
 print(lista_bledow)
 # napisac zadanie przeprowadzające test z historii lub czegokolwiek innego
 odp = input("Kiedy zaczęła sie II Wojna Światowa?")
