@@ -36,3 +36,5 @@ odejmij(1, 2, 3)  # -4
 odejmij(c=3, a=1, b=2)  # -4
 odejmij(7, c=8, b=9)  # -10 mieszane, pozycyjny musi byc przed nazwanymi
 print(a, b)  # 4 8 wartoscci zmiennych globalnych nie sa zmieniane wewnątrz funkcji
+print(dodaj3(4, 5))  # None
+# print(dodaj() + dodaj3(1,2,3))  # TypeError: unsupported operand type(s) for +: 'NoneType' and 'NoneType'
