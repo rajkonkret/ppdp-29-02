@@ -36,4 +36,4 @@ sam.info()
 lista = [poj, sam]
 for i in lista:
     i.info()
-# polimorfizm - obiekty roznych kals posiadają wspólne cechy i funkcje. mozemy te same operacje wykonac na obiektach
+# polimorfizm - obiekty roznych klas posiadają wspólne cechy i funkcje. mozemy te same operacje wykonac na obiektach
