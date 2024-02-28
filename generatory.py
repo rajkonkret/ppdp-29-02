@@ -66,4 +66,27 @@ print(next(c2))
 print(next(c2))
 print(next(c2))
 print(next(c2))
+
+
 # 12:30
+
+def counter_2(start=0):
+    n = start
+    while True:
+        result = yield n
+        print(result)
+        if result == 'q':
+            break
+        n += 1
+
+
+c3 = counter_2(10)
+print(next(c3))
+print(next(c3))  # None
+print(next(c3))
+c3.send('OK')  # OK
+print(next(c3))
+print(next(c3))
+print(next(c3))
+# c3.send('q')  # StopIteration
+# print(next(c3))
