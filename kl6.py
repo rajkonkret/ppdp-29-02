@@ -37,3 +37,4 @@ print(f"Wynagrodzenie dla menadżera {menago.imie} {menago.nazwisko}: wynagrodze
 # Wynagrodzenie dla pracownika Jan Kowalski: wynagrodzenie 5000
 # Cześć, jestem Anna Nowak
 # Wynagrodzenie dla menadżera Anna Nowak: wynagrodzenie 11000
+#
