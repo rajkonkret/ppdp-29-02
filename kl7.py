@@ -43,11 +43,6 @@ class Orzel(Ptak):
 class Sowa(Ptak):
     """
     Klasa Sowa
-    Traceback (most recent call last):
-  File "C:\Users\CSComarch\Desktop\AG\ppdp-29-02\kl7.py", line 65, in <module>
-    sowa = Sowa("Sowa", 10)
-           ^^^^^^^^^^^^^^^^
-TypeError: Can't instantiate abstract class Sowa without an implementation for abstract method 'wydaj_odglos'
     """
 
 
