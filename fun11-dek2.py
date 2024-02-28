@@ -22,3 +22,4 @@ def greeting():
 
 # dekorator, ktory zmienia wynik tej funkcji  na duze litery
 print(greeting())  # HELLO WORLD!
+# HELLO WORLD!
