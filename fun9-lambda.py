@@ -95,3 +95,4 @@ print(reduce(lambda a, b: a + b, lista_reduce))  # 15
 # 6 + 4 = 10
 # 10 + 5 = 15
 print(reduce(lambda a, b: a * b, lista_reduce))  # 120
+# 10:40
