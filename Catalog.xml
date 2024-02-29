@@ -1,0 +1,10 @@
+<Catalog>
+    <mobile>
+        <brand>Apple</brand>
+        <price>6999</price>
+    </mobile>
+    <mobile>
+        <brand>Samsung</brand>
+        <price>5999</price>
+    </mobile>
+</Catalog>
