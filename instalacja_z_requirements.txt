@@ -1,0 +1,2 @@
+(.venv) PS C:\Users\CSComarch\Desktop\AG\ppdp-29-02> pip freeze > requirements.txt
+(.venv) PS C:\Users\CSComarch\Desktop\AG\ppdp-29-02> pip install -r .\requirements.txt
