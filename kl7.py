@@ -46,7 +46,7 @@ class Sowa(Ptak):
     """
 
 
-# Po oznaczeniu metodu jako abstrakcyjna, nie można tworzyc obiektów tej klasy
+# Po oznaczeniu metody jako abstrakcyjna, nie można tworzyc obiektów tej klasy
 # Traceback (most recent call last):
 #   File "C:\Users\CSComarch\Desktop\AG\ppdp-29-02\kl7.py", line 37, in <module>
 #     or1 = Ptak("Orzel Bielik", 45)
